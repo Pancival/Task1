@@ -1,0 +1,98 @@
+.education {
+    width: 268px;
+    height: 289px;
+
+}
+
+.education-container{
+    display: flex;
+    flex-direction: row;
+    gap:16px;
+}
+
+.education-graph__list {
+    display: flex;
+    flex-direction: column;
+    margin-top: 16px;
+
+}
+
+.education-graph__list-item.active {
+    width: 116px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    background: #28d979;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 16px;
+}
+
+.education-graph__list-item-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 10px;
+    font-weight: 500;
+    margin: 8px;
+}
+
+.education-graph__list-item-body {
+    font-size: 8px;
+    font-weight: 400;
+    margin: 8px;
+    margin-top: 0;
+    line-height: 150%;
+}
+
+.education-graph__list-item-title {
+    font-size: 10px;
+    font-weight: 500;
+}
+
+.education-bottom {
+    font-size: 8px;
+    font-weight: 400;
+    margin: 8px;
+    margin-top: 0;
+}
+
+.education-graph__list-item {
+    background: white;
+    width: 116px;
+    height: 96px;
+    border-radius: 10px;
+}
+
+.green {
+    color: #149063;
+    font-weight: 400;
+    line-height: 150%;
+    font-size: 8px;
+}
+
+.coursrea{
+    margin-top: 40px;
+}
+
+.education-graph__solo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: white;
+    width: 116px;
+    height: 108px;
+    border-radius: 10px;
+    margin-top: 16px;
+}
+
+.education-graph__solo-header{
+    font-size: 10px ;
+    font-weight: 500;
+    line-height: 150%;
+    margin: 8px;
+}
+
+.law{
+    margin: 0 8px;
+}
