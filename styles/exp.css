@@ -39,7 +39,7 @@
 }
 
 .experience-info__label{
-    color: #ddf163;
+    color: #addfad;
     line-height: 155%;
     font-size: 8px;
     padding: 2px 6px;
@@ -72,7 +72,7 @@
 }
 
 .experience-info__job-item.selected .experience-info__job-bottom{
-    color: #ebf9f2;
+    color: #e0ffff;
 }
 
 .experience-info__job-name,
