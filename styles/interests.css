@@ -1,0 +1,49 @@
+.interests-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.interests{
+    width: 267px;
+    height: 177px;
+
+}
+
+.interests-item{
+    padding: 4px 10px;
+    border-radius: 40px;
+    background: #fff;
+    font-size: 10px;
+    font-weight: 400;
+}
+.header-text.int{
+    margin-bottom: 12px;
+}
+
+.contact-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: black;
+    width: 267px;
+    height: 92px;
+    border-radius: 10px;
+    color: #fff;
+    margin-top: 20px;
+    padding-bottom:12px;
+
+
+}
+
+.contact-container__title{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 150%;
+    margin: 12px;
+}
+.contact-container__text{
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 150%;
+    margin: 0 12px;
+}
